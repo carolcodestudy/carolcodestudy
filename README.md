@@ -1,16 +1,25 @@
-
 # Prazer, me chamo Ana Carolina
-
 
 Sou formada no curso Técnico em Informática e atualemnte estou estudando a biblioteca React com o propósito de evoluir para desenvolvimento Mobile 📲
 
 ## 🛠 Habilidades
 
-Minhas habilidades estão no conhecimento das ferramentas HTML5, CSS3, JavaScript e PHP.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolcodestudy&hide_progress=false&title_color=FF00FF&bg_color=000000&text_color=E0FFFF&hide_border=true&locale=pt-br)
 
-Consegui dominar estas linguagens durante o desenvolvimento do meu TCC, em que eu auxiliava na documentação do site e trabalhava como programadora Full-stack.
+Consegui dominar estas linguagens durante o desenvolvimento do meu TCC, para elaborar as telas de login, realizar manipulações do DOM com JS e atualizar e receber informações do banco com PHP com requisições Ajax.
 
 Possuo conhecimento com o banco de dados MySQL e SQL Server.
+
+## Interesse em estudar na área de Tecnologia
+
+Sempre fui uma menina que gostava de jogos e eu sempre tive a curiosidade de ver como um game pode ser criado.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolcodestudy&theme=dark&show_icons=true&title_color=E0FFFF&text_color=E0FFFF&bg_color=30,FF00FF,000000&icon_color=000000&hide_border=true&locale=pt-br)
+
+## Referência
+
+ - [ Repositório dos cards: ](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#available-locales)
+
 
 <!--
 **carolcodestudy/carolcodestudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
