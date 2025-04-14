@@ -1,6 +1,6 @@
 # Prazer, me chamo Ana Carolina
 
-Sou formada no curso Técnico em Informática e atualemnte estou estudando a biblioteca React com o propósito de evoluir para desenvolvimento Mobile 📲
+Sou formada no curso Técnico em Informática e atualmente estou estudando a biblioteca React com o propósito de evoluir para desenvolvimento Mobile 📲
 
 ## 🛠 Habilidades
 
@@ -10,15 +10,13 @@ Consegui dominar estas linguagens durante o desenvolvimento do meu TCC, para ela
 
 Possuo conhecimento com o banco de dados MySQL e SQL Server.
 
-## Interesse em estudar na área de Tecnologia
-
-Sempre fui uma menina que gostava de jogos e eu sempre tive a curiosidade de ver como um game pode ser criado.
+## Meu progresso
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolcodestudy&theme=dark&show_icons=true&title_color=E0FFFF&text_color=E0FFFF&bg_color=30,FF00FF,000000&icon_color=000000&hide_border=true&locale=pt-br)
 
 ## Referência
 
- - [ Repositório dos cards: ](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#available-locales)
+ - [ Repositório dos cards ](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#available-locales)
 
 
 <!--
