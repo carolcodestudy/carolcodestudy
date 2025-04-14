@@ -16,7 +16,7 @@ Possuo conhecimento com o banco de dados MySQL e SQL Server.
 
 ## Referência
 
- - [ Repositório dos cards ](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#available-locales)
+ - [ Repositório que criou estes 2 cards ]([https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#available-locales](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md))
 
 
 <!--
